@@ -1,4 +1,11 @@
-﻿namespace ProgrammingII_QuizFramework
+﻿/*
+ * Programming II Quiz Framework
+ * YourName, Date
+ * credits: 
+ * Built on a framework provided in class by janellbaxter.com
+ */
+
+namespace ProgrammingII_QuizFramework
 {
     internal class Program
     {
